@@ -1,0 +1,14 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "."
+		}
+	],
+    "python_path":"/Users/DrWrong/pythonvirtualenv/tidying/lib/python3.4/site-packages",
+    "settings":
+    {
+        "python_interpreter": "/usr/local/bin/python3"
+    }
+}
